@@ -1,0 +1,10 @@
+/* This targets the <body> element in our HTML */
+body {
+    background-color: peachpuff;
+}
+
+h1 {
+    font-family: "UnifrakturCook", cursive;
+    font-weight: 700;
+    font-style: normal;
+}
